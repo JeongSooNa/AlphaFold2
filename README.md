@@ -62,16 +62,23 @@ green : OK
 yellow : Low  
 red : Very low
 
+![jpg](./IMG/Display_3D_structure.png)
+
 ---
 
 ### 7. Plots
 Sequence coverage  
 Predicted lDDT per position : 100점에 가까우면 정확한 예측에 가깝다.  
 
+![jpg](./IMG/Plot.png)
+
 ---
 
 ### 8. Package and download results
 
+![jpg](./IMG/download.png)
+
+---
 
 ## Summary
 protein sequence -> predicted 5 structure  
