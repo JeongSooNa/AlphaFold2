@@ -16,9 +16,9 @@ Deepmind
 ---
 
 ### 1. input protein sequence
-protein sequence (in uniprot)
-jobname
-templete_mode : none
+protein sequence (in uniprot)  
+jobname  
+templete_mode : none  
 
 ![jpg](./IMG/Input_protein_sequence.png)
 
@@ -31,15 +31,15 @@ templete_mode : none
 ---
 
 ### 3. MSA options (custom MSA upload, single sequence, pairing mode)
-mmseqs2_uniref_env (Default)
-unpaired_paired (Default)
+mmseqs2_uniref_env (Default)  
+unpaired_paired (Default)  
 
 ![jpg](./IMG/MSA_options.png)
 
 ---
 ### 4. Advanced settings
-model_type : auto (Default)
-num_recycles : auto (Default)
+model_type : auto (Default)  
+num_recycles : auto (Default)  
 
 ![jpg](./IMG/Advances_setting.png)
 
@@ -53,16 +53,22 @@ num_recycles : auto (Default)
 ---
 
 ### 6. Display 3D structure
-check 3D structure (choose rank_num (1~5))
-show_sidechain
-color : lDDT, rainbow
-exacted prediction : blue
-weak prediction : green
+check 3D structure (choose rank_num (1~5))  
+show_sidechain  
+color : lDDT, rainbow  
+exacted prediction : blue  
+weak prediction : green  
+
+---
+
 ### 7. Plots
-Sequence coverage
-Predicted lDDT per position : 100점에 가까우면 정확한 예측에 가깝다.
+Sequence coverage  
+Predicted lDDT per position : 100점에 가까우면 정확한 예측에 가깝다.  
+
+---
+
 ### 8. Package and download results
 
 
 ## Summary
-protein sequence -> predicted 5 structure
+protein sequence -> predicted 5 structure  
