@@ -56,8 +56,11 @@ num_recycles : auto (Default)
 check 3D structure (choose rank_num (1~5))  
 show_sidechain  
 color : lDDT, rainbow  
-exacted prediction : blue  
-weak prediction : green  
+blue : Very high  
+sky : Confident  
+green : OK  
+yellow : Low  
+red : Very low
 
 ---
 
