@@ -13,6 +13,18 @@ Deepmind
 
 [Colab AlphaFold2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb#scrollTo=kOblAo-xetgx)
 
+
+## Process
+1. input protein sequence
+2. Install dependencies
+3. MSA options (custom MSA upload, single sequence, pairing mode)
+4. Advanced settings
+5. Run Prediction
+6. Display 3D structure 
+7. Plots
+8. Package and download results
+
+
 ---
 
 ### 1. input protein sequence
@@ -81,4 +93,4 @@ Predicted lDDT per position : 100점에 가까우면 정확한 예측에 가깝�
 ---
 
 ## Summary
-protein sequence -> predicted 5 structure  
+protein sequence -> predicted 5 structure 
